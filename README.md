@@ -54,9 +54,9 @@ A Japanese horror roguelike game built with Unity.
 
 ## 📊 Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tokimeki-marinosuke&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokimeki-marinosuke&layout=compact)
 
 ---
 
