@@ -38,9 +38,9 @@ A Japanese horror roguelike game built with Unity.
 
 ## 💻 Languages
 
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
 
 ---
 
