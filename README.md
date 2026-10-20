@@ -4,7 +4,7 @@
 
 ### 💀 I have no idea why this works.
 
-![Profile Views](https://komarev.com/ghpvc/?username=tokimekimarinosuke)
+![Profile Views](https://komarev.com/ghpvc/?username=tokimeki-marinosuke)
 
 </div>
 
