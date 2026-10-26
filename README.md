@@ -12,7 +12,7 @@
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=tokimeki-marinosuke&amp;color=167544&amp;style=flat-square&amp;label=VISITORS" alt="Profile Views" /></a>
 <a href="https://github.com/tokimeki-marinosuke?tab=followers"><img src="https://img.shields.io/github/followers/tokimeki-marinosuke?style=flat-square&amp;color=167544&amp;label=FOLLOWERS&amp;labelColor=111111" alt="GitHub followers" /></a>
-<a href="https://github.com/tokimeki-marinosuke/tokimeki-marinosuke/actions/workflows/stats.yml"><img src="https://img.shields.io/badge/BUILD-passing%3F-167544?style=flat-square&amp;labelColor=111111" alt="Status" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&amp;list=RDdQw4w9WgXcQ&amp;start_radio=1"><img src="https://img.shields.io/badge/BUILD-passing%3F-167544?style=flat-square&amp;labelColor=111111" alt="Status" /></a>
 
 </div>
 
