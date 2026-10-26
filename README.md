@@ -139,9 +139,12 @@ while (project.isWorking()) {
 
 <div align="center">
 
-### `> contact --discord`
+### `> contact --links`
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@maruha0523)
+<a href="https://discord.com/users/@maruha0523" title="Discord"><img src="./assets/icons/discord.svg" width="64" height="64" alt="Discord" /></a>&nbsp;&nbsp;
+<a href="https://steamcommunity.com/profiles/76561199274968390/" title="Steam"><img src="./assets/icons/steam.svg" width="64" height="64" alt="Steam" /></a>&nbsp;&nbsp;
+<a href="https://x.com/Kanaya_festival" title="X"><img src="./assets/icons/x.svg" width="64" height="64" alt="X" /></a>&nbsp;&nbsp;
+<a href="https://atcoder.jp/users/TMarinosuke" title="AtCoder"><img src="./assets/icons/atcoder.svg" width="64" height="64" alt="AtCoder" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,60:18351f,100:050505&height=120&section=footer" width="100%" alt="Footer" />
 
