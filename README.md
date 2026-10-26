@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,45:18351f,100:00ff88&amp;height=220§ion=header&amp;text=TOKIMEKI%20MARINOSUKE&amp;fontSize=37&amp;fontColor=00ff88&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=BUILD%20FAILED%20SUCCESSFULLY&amp;descAlignY=60&amp;descSize=17" width="100%" alt="Bugged Developer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:18351f,100:00ff88&height=220&section=header&text=TOKIMEKI%20MARINOSUKE&fontSize=37&fontColor=00ff88&animation=twinkling&fontAlignY=38&desc=BUILD%20FAILED%20SUCCESSFULLY&descAlignY=60&descSize=17" width="100%" alt="Bugged Developer banner" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2600&amp;pause=900&amp;color=00FF88&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%3E+Hello%2C+World!;%3E+I+have+no+idea+why+this+works.;%3E+Works+on+my+machine%E2%84%A2;%3E+99+bugs+in+the+code..." />
