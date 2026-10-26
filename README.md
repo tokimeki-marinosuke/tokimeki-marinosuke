@@ -73,17 +73,19 @@ A zoo-building learning app that connects teachers' assignment management with s
 
 <img src="https://skillicons.dev/icons?i=c,cs,java,python,ts,js,dart,kotlin,html,css&perline=8" alt="01 // Languages" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" title="MATLAB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="SQL" title="SQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" title="MATLAB" /> <img src="./assets/icons/mysql.png" width="48" height="48" alt="MySQL" title="MySQL" />
 
 ### `02 // Game Development & 3D`
 
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender,scratch&perline=8" alt="02 // Game Development & 3D" />
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender&perline=8" alt="02 // Game Development & 3D" />
+
+<img src="./assets/icons/scratch.webp" width="48" height="48" alt="Scratch" title="Scratch" /> <img src="./assets/icons/vroid.jpg" width="48" height="48" alt="VRoid Studio" title="VRoid Studio" />
 
 ### `03 // Creative Tools`
 
 <img src="https://skillicons.dev/icons?i=ai,figma&perline=8" alt="03 // Creative Tools" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/obsstudio/obsstudio-original.svg" width="48" height="48" alt="OBS Studio" title="OBS Studio" />
+<img src="./assets/icons/obs.png" width="48" height="48" alt="OBS Studio" title="OBS Studio" /> <img src="./assets/icons/clip-studio.png" width="48" height="48" alt="CLIP STUDIO PAINT" title="CLIP STUDIO PAINT" />
 
 ### `04 // Development & OS`
 
@@ -93,19 +95,13 @@ A zoo-building learning app that connects teachers' assignment management with s
 
 <img src="https://skillicons.dev/icons?i=nodejs,firebase,raspberrypi,arduino,githubactions&perline=8" alt="05 // Backend & Hardware" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" width="48" height="48" alt="Node-RED" title="Node-RED" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" width="48" height="48" alt="Node-RED" title="Node-RED" /> <img src="./assets/icons/verilog.png" width="48" height="48" alt="Verilog" title="Verilog" />
 
 ### `06 // AI Arsenal`
 
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="ChatGPT" title="ChatGPT" /> <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude" title="Claude" /> <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="Codex" title="Codex" /> <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" title="Claude Code" />
+<img src="./assets/icons/chatgpt.webp" width="48" height="48" alt="ChatGPT" title="ChatGPT" /> <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude" title="Claude" /> <img src="./assets/icons/codex.webp" width="48" height="48" alt="Codex" title="Codex" /> <img src="./assets/icons/claude-code.png" width="48" height="48" alt="Claude Code" title="Claude Code" /> <img src="./assets/icons/bridge.png" width="48" height="48" alt="bridge." title="bridge." />
 
-<!-- Custom logos: add verified official images to assets/icons/ before uncommenting these.
-<img src="./assets/icons/bridge.png" width="48" alt="bridge." />
-<img src="./assets/icons/vroid.png" width="48" alt="VRoid Studio" />
-<img src="./assets/icons/ymm4.png" width="48" alt="YMM4" />
-<img src="./assets/icons/clip-studio.png" width="48" alt="CLIP STUDIO PAINT" />
-<img src="./assets/icons/verilog.png" width="48" alt="Verilog" />
--->
+
 
 `AI_ASSISTED = true` · `HUMAN_SUPERVISION = hopefully` · `BUGS = still_my_responsibility`
 
