@@ -20,7 +20,7 @@ jobs:
         with:
           card: stats
           options: username=tokimeki-marinosuke&show_icons=true&theme=blue-green
-          path: profile/stats.svg
+          path: profile/stats-blue-green.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages
@@ -28,8 +28,11 @@ jobs:
         with:
           card: top-langs
           options: username=tokimeki-marinosuke&layout=compact&theme=blue-green
-          path: profile/top-langs.svg
+          path: profile/top-langs-blue-green.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Activity Graph
+        run: python3 .github/scripts/generate_activity_graph.py
 
       - name: Commit Stats
         run: |
