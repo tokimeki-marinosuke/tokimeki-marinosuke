@@ -71,30 +71,27 @@ A zoo-building learning app that connects teachers' assignment management with s
 
 ### `01 // Languages`
 
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" title="C" /> <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" /> <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java" /> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" /> <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript" /> <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" title="Dart" /> <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" title="Kotlin" /><br />
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" title="HTML" /> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" title="CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" title="MATLAB" /> <img src="./assets/icons/mysql.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" title="C" /> <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" /> <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java" /> <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" title="Kotlin" /> <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" title="Dart" /> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" /><br />
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" title="HTML" /> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" title="CSS" /> <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript" /> <img src="./assets/icons/mysql.svg" width="48" height="48" alt="MySQL" title="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" title="MATLAB" />
 
 ### `02 // Game Development & 3D`
 
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender&perline=8" alt="02 // Game Development & 3D" />
-
-<img src="./assets/icons/scratch.svg" width="48" height="48" alt="Scratch" title="Scratch" /> <img src="./assets/icons/vroid.svg" width="48" height="48" alt="VRoid Studio" title="VRoid Studio" /> <img src="./assets/icons/bridge.svg" width="48" height="48" alt="bridge." title="bridge." />
+<img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" title="Unity" /> <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine" title="Unreal Engine" /> <img src="./assets/icons/scratch.svg" width="48" height="48" alt="Scratch" title="Scratch" /><br />
+<img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" title="Blender" /> <img src="./assets/icons/vroid.svg" width="48" height="48" alt="VRoid Studio" title="VRoid Studio" /> <img src="./assets/icons/bridge.svg" width="48" height="48" alt="bridge." title="bridge." />
 
 ### `03 // Creative Tools`
 
-<img src="https://skillicons.dev/icons?i=ai,figma&perline=8" alt="03 // Creative Tools" />
-
-<img src="./assets/icons/obs.svg" width="48" height="48" alt="OBS Studio" title="OBS Studio" /> <img src="./assets/icons/clip-studio.svg" width="48" height="48" alt="CLIP STUDIO PAINT" title="CLIP STUDIO PAINT" />
+<img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" title="Illustrator" /> <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" title="Figma" /> <img src="./assets/icons/clip-studio.svg" width="48" height="48" alt="CLIP STUDIO PAINT" title="CLIP STUDIO PAINT" /> <img src="./assets/icons/obs.svg" width="48" height="48" alt="OBS Studio" title="OBS Studio" />
 
 ### `04 // Development & OS`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,windows,linux,android&perline=8" alt="04 // Development & OS" />
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" /> <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" /> <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" /> <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code" /> <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" title="Visual Studio" /><br />
+<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" title="Windows" /> <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux" /> <img src="https://skillicons.dev/icons?i=android" width="48" height="48" alt="Android" title="Android" /> <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" title="Android Studio" />
 
 ### `05 // Backend & Hardware`
 
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,raspberrypi,arduino,githubactions&perline=8" alt="05 // Backend & Hardware" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" width="48" height="48" alt="Node-RED" title="Node-RED" /> <img src="./assets/icons/verilog.svg" width="48" height="48" alt="Verilog" title="Verilog" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js" /> <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" title="Firebase" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" width="48" height="48" alt="Node-RED" title="Node-RED" /><br />
+<img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" title="Raspberry Pi" /> <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" title="Arduino" /> <img src="./assets/icons/verilog.svg" width="48" height="48" alt="Verilog" title="Verilog" />
 
 ### `06 // AI Arsenal`
 
