@@ -69,48 +69,43 @@ A zoo-building learning app that connects teachers' assignment management with s
 
 <div align="center">
 
-### `01 // Languages & Frameworks`
+### `01 // Languages`
 
-<img src="https://skillicons.dev/icons?i=cs,java,python,c,ts,js,dart,kotlin,flutter,html,css&theme=dark&perline=11" alt="C#, Java, Python, C, TypeScript, JavaScript, Dart, Kotlin, Flutter, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=c,cs,java,python,ts,js,dart,kotlin,html,css&perline=8" alt="01 // Languages" />
 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
-![Verilog / HDL](https://img.shields.io/badge/Verilog%20%2F%20HDL-555555?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" title="MATLAB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="SQL" title="SQL" />
 
 ### `02 // Game Development & 3D`
 
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender&theme=dark&perline=8" alt="Unity, Unreal Engine, Blender" />
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender,scratch&perline=8" alt="02 // Game Development & 3D" />
 
-![Scratch](https://img.shields.io/badge/Scratch-FF9F1C?style=for-the-badge&logo=scratch&logoColor=white)
-![VRoid Studio](https://img.shields.io/badge/VRoid_Studio-43B5A0?style=for-the-badge)
+### `03 // Creative Tools`
 
-### `03 // Art, Design & Video`
+<img src="https://skillicons.dev/icons?i=ai,figma&perline=8" alt="03 // Creative Tools" />
 
-<img src="https://skillicons.dev/icons?i=ai,figma&theme=dark&perline=8" alt="Adobe Illustrator, Figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/obsstudio/obsstudio-original.svg" width="48" height="48" alt="OBS Studio" title="OBS Studio" />
 
-![CLIP STUDIO PAINT](https://img.shields.io/badge/CLIP_STUDIO_PAINT-333333?style=for-the-badge)
-![Adobe Bridge](https://img.shields.io/badge/Adobe_Bridge-3B2555?style=for-the-badge)
-![YMM4](https://img.shields.io/badge/YukkuriMovieMaker_4-4B77BE?style=for-the-badge)
-![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+### `04 // Development & OS`
 
-### `04 // Development Environment & OS`
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,windows,linux,android&perline=8" alt="04 // Development & OS" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,windows,linux&theme=dark&perline=8" alt="Git, GitHub, VS Code, Visual Studio, Android Studio, Windows, Linux" />
+### `05 // Backend & Hardware`
 
-![Android OS](https://img.shields.io/badge/Android_OS-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,raspberrypi,arduino,githubactions&perline=8" alt="05 // Backend & Hardware" />
 
-### `05 // Backend, Automation & Hardware`
-
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,raspberrypi,arduino,githubactions&theme=dark&perline=8" alt="Node.js, Firebase, Raspberry Pi, Arduino, GitHub Actions" />
-
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" width="48" height="48" alt="Node-RED" title="Node-RED" />
 
 ### `06 // AI Arsenal`
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="ChatGPT" title="ChatGPT" /> <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude" title="Claude" /> <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="Codex" title="Codex" /> <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" title="Claude Code" />
+
+<!-- Custom logos: add verified official images to assets/icons/ before uncommenting these.
+<img src="./assets/icons/bridge.png" width="48" alt="bridge." />
+<img src="./assets/icons/vroid.png" width="48" alt="VRoid Studio" />
+<img src="./assets/icons/ymm4.png" width="48" alt="YMM4" />
+<img src="./assets/icons/clip-studio.png" width="48" alt="CLIP STUDIO PAINT" />
+<img src="./assets/icons/verilog.png" width="48" alt="Verilog" />
+-->
 
 `AI_ASSISTED = true` · `HUMAN_SUPERVISION = hopefully` · `BUGS = still_my_responsibility`
 
