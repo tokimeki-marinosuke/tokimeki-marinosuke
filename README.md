@@ -76,8 +76,8 @@ A zoo-building learning app that connects teachers' assignment management with s
 
 ### `02 // Game Development & 3D`
 
-<img src="https://skillicons.dev/icons?i=unity" width="64" height="64" alt="Unity" title="Unity" /> <img src="https://skillicons.dev/icons?i=unreal" width="64" height="64" alt="Unreal Engine" title="Unreal Engine" /> <img src="./assets/icons/scratch.svg" width="64" height="64" alt="Scratch" title="Scratch" /><br />
-<img src="https://skillicons.dev/icons?i=blender" width="64" height="64" alt="Blender" title="Blender" /> <img src="./assets/icons/vroid.svg" width="64" height="64" alt="VRoid Studio" title="VRoid Studio" /> <img src="./assets/icons/bridge.svg" width="64" height="64" alt="bridge." title="bridge." />
+<img src="./assets/icons/unity.svg" width="64" height="64" alt="Unity" title="Unity" /> <img src="https://skillicons.dev/icons?i=unreal" width="64" height="64" alt="Unreal Engine" title="Unreal Engine" /> <img src="./assets/icons/scratch.svg" width="64" height="64" alt="Scratch" title="Scratch" /><br />
+<img src="./assets/icons/blender.svg" width="64" height="64" alt="Blender" title="Blender" /> <img src="./assets/icons/vroid.svg" width="64" height="64" alt="VRoid Studio" title="VRoid Studio" /> <img src="./assets/icons/bridge.svg" width="64" height="64" alt="bridge." title="bridge." />
 
 ### `03 // Creative Tools`
 
