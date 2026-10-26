@@ -81,12 +81,12 @@ A zoo-building learning app that connects teachers' assignment management with s
 
 ### `03 // Creative Tools`
 
-<img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" title="Illustrator" /> <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" title="Figma" /> <img src="./assets/icons/clip-studio.svg" width="48" height="48" alt="CLIP STUDIO PAINT" title="CLIP STUDIO PAINT" /> <img src="./assets/icons/obs.svg" width="48" height="48" alt="OBS Studio" title="OBS Studio" />
+<img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" title="Illustrator" /> <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" title="Figma" /> <img src="./assets/icons/clip-studio.svg" width="48" height="48" alt="CLIP STUDIO PAINT" title="CLIP STUDIO PAINT" /> <img src="./assets/icons/ymm4.svg" width="48" height="48" alt="ゆっくりMovieMaker4" title="ゆっくりMovieMaker4 (YMM4)" /> <img src="./assets/icons/obs.svg" width="48" height="48" alt="OBS Studio" title="OBS Studio" />
 
 ### `04 // Development & OS`
 
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" /> <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" /> <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" /> <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code" /> <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" title="Visual Studio" /><br />
-<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" title="Windows" /> <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux" /> <img src="https://skillicons.dev/icons?i=android" width="48" height="48" alt="Android" title="Android" /> <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" title="Android Studio" />
+<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" title="Windows" /> <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux" /> <img src="./assets/icons/android.svg" width="48" height="48" alt="Android" title="Android" /> <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" title="Android Studio" />
 
 ### `05 // Backend & Hardware`
 
