@@ -130,6 +130,8 @@ Built **[ZooっとStudy](https://github.com/jphacks/ng_2621)** — turning every
 <a href="https://github.com/tokimeki-marinosuke"><img src="./profile/stats.svg" alt="GitHub statistics" width="49%" /></a>
 <a href="https://github.com/tokimeki-marinosuke?tab=repositories"><img src="./profile/top-langs.svg" alt="Most used languages" width="49%" /></a>
 
+<a href="https://github.com/tokimeki-marinosuke?tab=overview"><img src="https://github-readme-activity-graph.vercel.app/graph?username=tokimeki-marinosuke&amp;bg_color=040f0f&amp;color=0cf574&amp;title_color=2f97c1&amp;line=2f97c1&amp;point=0cf574&amp;area=true&amp;area_color=2f97c1&amp;hide_border=true" alt="GitHub activity graph" width="100%" /></a>
+
 </div>
 
 <details>

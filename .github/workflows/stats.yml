@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=tokimeki-marinosuke&show_icons=true
+          options: username=tokimeki-marinosuke&show_icons=true&theme=blue-green
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=tokimeki-marinosuke&layout=compact
+          options: username=tokimeki-marinosuke&layout=compact&theme=blue-green
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
