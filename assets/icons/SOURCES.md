@@ -15,14 +15,38 @@
 - Verified release archive SHA-256: `49c0ed689f545737b7ce939971bfc625962e00791c57883dc8e6f058aa336c5a`.
 - The logo is displayed to identify the application; ownership remains with its respective owner.
 
-## VRoid Studio (vector replacement)
+## VRoid Studio (Nordzy replacement)
 
-- Artwork: [Papirus vroid-studio.svg](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/vroid-studio.svg).
-- Copyright Papirus Development Team; GPL-3.0, see `PAPIRUS-LICENSE.txt`.
-- Vector shapes are embedded intact in `vroid.svg`; only an outer rounded clipping frame and scalable viewport were added. The previous 32×32 JPEG is no longer used.
+- Artwork: [Nordzy VRoid Studio icon by MolassesLover](https://github.com/MolassesLover/Nordzy-icon/blob/9f3dc9839dd409986d12654d352e0bcff2246dd2/src/apps/scalable/vroid-studio.svg).
+- Original contribution: [Created an icon for VRoid Studio](https://github.com/MolassesLover/Nordzy-icon/commit/9f3dc9839dd409986d12654d352e0bcff2246dd2).
+- GPL-3.0; see `NORDZY-LICENSE.txt`.
+- `vroid.svg` preserves the upstream vector artwork; only trailing whitespace was removed. It replaces the previous Papirus interpretation and the original 32×32 JPEG.
 
 ## Unity and Blender backgrounds
 
 - Original vector artwork: [Skill Icons](https://github.com/tandpfun/skill-icons), `Unity-Dark.svg` and `Blender-Dark.svg`.
 - MIT license: see `SKILL-ICONS-LICENSE.txt`.
 - Only the tile backgrounds were changed: Unity `#4C4C4C`, Blender `#1A4665`. Logo colors and shapes are preserved.
+
+## Individual background colors
+
+The following Skill Icons dark tiles use individual solid backgrounds. Only the first full-canvas background fill and the display dimensions were changed; all logo geometry, colors, and internal gradients are preserved. Sources: [Skill Icons](https://github.com/tandpfun/skill-icons/tree/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons), MIT (`SKILL-ICONS-LICENSE.txt`). Android uses the existing Devicon vector with only its tile fill changed.
+
+| Icon | Background |
+| --- | --- |
+| java | `#203C58` |
+| kotlin | `#3C2B61` |
+| dart | `#073F4D` |
+| python | `#243F69` |
+| figma | `#402D52` |
+| github | `#111820` |
+| githubactions | `#D5E8FA` |
+| vscode | `#123F61` |
+| visualstudio | `#41265F` |
+| windows | `#075681` |
+| linux | `#E7B83B` |
+| androidstudio | `#173D2B` |
+| nodejs | `#153E2B` |
+| firebase | `#174466` |
+| raspberrypi | `#531D37` |
+| Android | `#354D1B` |
