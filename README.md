@@ -71,9 +71,8 @@ A zoo-building learning app that connects teachers' assignment management with s
 
 ### `01 // Languages`
 
-<img src="https://skillicons.dev/icons?i=c,cs,java,python,ts,js,dart,kotlin,html,css&perline=8" alt="01 // Languages" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" title="MATLAB" /> <img src="./assets/icons/mysql.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" title="C" /> <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" /> <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java" /> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" /> <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript" /> <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" title="Dart" /> <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" title="Kotlin" /><br />
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" title="HTML" /> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" title="CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" title="MATLAB" /> <img src="./assets/icons/mysql.svg" width="48" height="48" alt="MySQL" title="MySQL" />
 
 ### `02 // Game Development & 3D`
 
