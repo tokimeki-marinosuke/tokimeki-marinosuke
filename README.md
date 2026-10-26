@@ -10,9 +10,9 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=tokimeki-marinosuke&amp;color=167544&amp;style=flat-square&amp;label=VISITORS" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/tokimeki-marinosuke?style=flat-square&amp;color=167544&amp;label=FOLLOWERS&amp;labelColor=111111" alt="GitHub followers" />
-<img src="https://img.shields.io/badge/BUILD-passing%3F-167544?style=flat-square&amp;labelColor=111111" alt="Status" />
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=tokimeki-marinosuke&amp;color=167544&amp;style=flat-square&amp;label=VISITORS" alt="Profile Views" /></a>
+<a href="https://github.com/tokimeki-marinosuke?tab=followers"><img src="https://img.shields.io/github/followers/tokimeki-marinosuke?style=flat-square&amp;color=167544&amp;label=FOLLOWERS&amp;labelColor=111111" alt="GitHub followers" /></a>
+<a href="https://github.com/tokimeki-marinosuke/tokimeki-marinosuke/actions/workflows/stats.yml"><img src="https://img.shields.io/badge/BUILD-passing%3F-167544?style=flat-square&amp;labelColor=111111" alt="Status" /></a>
 
 </div>
 
@@ -75,31 +75,31 @@ A zoo-building learning app that connects teachers' assignment management with s
 
 ### `01 // Languages`
 
-<img src="https://skillicons.dev/icons?i=c" width="64" height="64" alt="C" title="C" /> <img src="https://skillicons.dev/icons?i=cs" width="64" height="64" alt="C#" title="C#" /> <img src="./assets/icons/java.svg" width="64" height="64" alt="Java" title="Java" /> <img src="./assets/icons/kotlin.svg" width="64" height="64" alt="Kotlin" title="Kotlin" /> <img src="./assets/icons/dart.svg" width="64" height="64" alt="Dart" title="Dart" /> <img src="./assets/icons/python.svg" width="64" height="64" alt="Python" title="Python" /><br />
-<img src="https://skillicons.dev/icons?i=html" width="64" height="64" alt="HTML" title="HTML" /> <img src="https://skillicons.dev/icons?i=css" width="64" height="64" alt="CSS" title="CSS" /> <img src="https://skillicons.dev/icons?i=js" width="64" height="64" alt="JavaScript" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" width="64" height="64" alt="TypeScript" title="TypeScript" /> <img src="./assets/icons/mysql.svg" width="64" height="64" alt="MySQL" title="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" title="MATLAB" />
+<a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://skillicons.dev/icons?i=c" width="64" height="64" alt="C" title="C" /></a> <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="64" height="64" alt="C#" title="C#" /></a> <a href="https://www.java.com/"><img src="./assets/icons/java.svg" width="64" height="64" alt="Java" title="Java" /></a> <a href="https://kotlinlang.org/"><img src="./assets/icons/kotlin.svg" width="64" height="64" alt="Kotlin" title="Kotlin" /></a> <a href="https://dart.dev/"><img src="./assets/icons/dart.svg" width="64" height="64" alt="Dart" title="Dart" /></a> <a href="https://www.python.org/"><img src="./assets/icons/python.svg" width="64" height="64" alt="Python" title="Python" /></a><br />
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="64" height="64" alt="HTML" title="HTML" /></a> <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="64" height="64" alt="CSS" title="CSS" /></a> <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="64" height="64" alt="JavaScript" title="JavaScript" /></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="64" height="64" alt="TypeScript" title="TypeScript" /></a> <a href="https://www.mysql.com/"><img src="./assets/icons/mysql.svg" width="64" height="64" alt="MySQL" title="MySQL" /></a> <a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" title="MATLAB" /></a>
 
 ### `02 // Game Development & 3D`
 
-<img src="./assets/icons/unity.svg" width="64" height="64" alt="Unity" title="Unity" /> <img src="https://skillicons.dev/icons?i=unreal" width="64" height="64" alt="Unreal Engine" title="Unreal Engine" /> <img src="./assets/icons/scratch.svg" width="64" height="64" alt="Scratch" title="Scratch" /><br />
-<img src="./assets/icons/blender.svg" width="64" height="64" alt="Blender" title="Blender" /> <img src="./assets/icons/vroid.svg" width="64" height="64" alt="VRoid Studio" title="VRoid Studio" /> <img src="./assets/icons/bridge.svg" width="64" height="64" alt="bridge." title="bridge." />
+<a href="https://unity.com/"><img src="./assets/icons/unity.svg" width="64" height="64" alt="Unity" title="Unity" /></a> <a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" width="64" height="64" alt="Unreal Engine" title="Unreal Engine" /></a> <a href="https://scratch.mit.edu/"><img src="./assets/icons/scratch.svg" width="64" height="64" alt="Scratch" title="Scratch" /></a><br />
+<a href="https://www.blender.org/"><img src="./assets/icons/blender.svg" width="64" height="64" alt="Blender" title="Blender" /></a> <a href="https://vroid.com/studio"><img src="./assets/icons/vroid.svg" width="64" height="64" alt="VRoid Studio" title="VRoid Studio" /></a> <a href="https://quixel.com/bridge"><img src="./assets/icons/bridge.svg" width="64" height="64" alt="bridge." title="bridge." /></a>
 
 ### `03 // Creative Tools`
 
-<img src="https://skillicons.dev/icons?i=ai" width="64" height="64" alt="Illustrator" title="Illustrator" /> <img src="./assets/icons/figma.svg" width="64" height="64" alt="Figma" title="Figma" /> <img src="./assets/icons/clip-studio.svg" width="64" height="64" alt="CLIP STUDIO PAINT" title="CLIP STUDIO PAINT" /> <img src="./assets/icons/ymm4.svg" width="64" height="64" alt="ゆっくりMovieMaker4" title="ゆっくりMovieMaker4 (YMM4)" /> <img src="./assets/icons/obs.svg" width="64" height="64" alt="OBS Studio" title="OBS Studio" />
+<a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" width="64" height="64" alt="Illustrator" title="Illustrator" /></a> <a href="https://www.figma.com/"><img src="./assets/icons/figma.svg" width="64" height="64" alt="Figma" title="Figma" /></a> <a href="https://www.clipstudio.net/"><img src="./assets/icons/clip-studio.svg" width="64" height="64" alt="CLIP STUDIO PAINT" title="CLIP STUDIO PAINT" /></a> <a href="https://manjubox.net/ymm4/"><img src="./assets/icons/ymm4.svg" width="64" height="64" alt="ゆっくりMovieMaker4" title="ゆっくりMovieMaker4 (YMM4)" /></a> <a href="https://obsproject.com/"><img src="./assets/icons/obs.svg" width="64" height="64" alt="OBS Studio" title="OBS Studio" /></a>
 
 ### `04 // Development & OS`
 
-<img src="https://skillicons.dev/icons?i=git" width="64" height="64" alt="Git" title="Git" /> <img src="./assets/icons/github.svg" width="64" height="64" alt="GitHub" title="GitHub" /> <img src="./assets/icons/githubactions.svg" width="64" height="64" alt="GitHub Actions" title="GitHub Actions" /> <img src="./assets/icons/vscode.svg" width="64" height="64" alt="VS Code" title="VS Code" /> <img src="./assets/icons/visualstudio.svg" width="64" height="64" alt="Visual Studio" title="Visual Studio" /><br />
-<img src="./assets/icons/windows.svg" width="64" height="64" alt="Windows" title="Windows" /> <img src="./assets/icons/linux.svg" width="64" height="64" alt="Linux" title="Linux" /> <img src="./assets/icons/android.svg" width="64" height="64" alt="Android" title="Android" /> <img src="./assets/icons/androidstudio.svg" width="64" height="64" alt="Android Studio" title="Android Studio" />
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="64" height="64" alt="Git" title="Git" /></a> <a href="https://github.com/"><img src="./assets/icons/github.svg" width="64" height="64" alt="GitHub" title="GitHub" /></a> <a href="https://github.com/features/actions"><img src="./assets/icons/githubactions.svg" width="64" height="64" alt="GitHub Actions" title="GitHub Actions" /></a> <a href="https://code.visualstudio.com/"><img src="./assets/icons/vscode.svg" width="64" height="64" alt="VS Code" title="VS Code" /></a> <a href="https://visualstudio.microsoft.com/"><img src="./assets/icons/visualstudio.svg" width="64" height="64" alt="Visual Studio" title="Visual Studio" /></a><br />
+<a href="https://www.microsoft.com/windows"><img src="./assets/icons/windows.svg" width="64" height="64" alt="Windows" title="Windows" /></a> <a href="https://www.kernel.org/"><img src="./assets/icons/linux.svg" width="64" height="64" alt="Linux" title="Linux" /></a> <a href="https://www.android.com/"><img src="./assets/icons/android.svg" width="64" height="64" alt="Android" title="Android" /></a> <a href="https://developer.android.com/studio"><img src="./assets/icons/androidstudio.svg" width="64" height="64" alt="Android Studio" title="Android Studio" /></a>
 
 ### `05 // Backend & Hardware`
 
-<img src="./assets/icons/nodejs.svg" width="64" height="64" alt="Node.js" title="Node.js" /> <img src="./assets/icons/firebase.svg" width="64" height="64" alt="Firebase" title="Firebase" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" width="64" height="64" alt="Node-RED" title="Node-RED" /><br />
-<img src="./assets/icons/raspberrypi.svg" width="64" height="64" alt="Raspberry Pi" title="Raspberry Pi" /> <img src="https://skillicons.dev/icons?i=arduino" width="64" height="64" alt="Arduino" title="Arduino" /> <img src="./assets/icons/verilog.svg" width="64" height="64" alt="Verilog" title="Verilog" />
+<a href="https://nodejs.org/"><img src="./assets/icons/nodejs.svg" width="64" height="64" alt="Node.js" title="Node.js" /></a> <a href="https://firebase.google.com/"><img src="./assets/icons/firebase.svg" width="64" height="64" alt="Firebase" title="Firebase" /></a> <a href="https://nodered.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" width="64" height="64" alt="Node-RED" title="Node-RED" /></a><br />
+<a href="https://www.raspberrypi.com/"><img src="./assets/icons/raspberrypi.svg" width="64" height="64" alt="Raspberry Pi" title="Raspberry Pi" /></a> <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="64" height="64" alt="Arduino" title="Arduino" /></a> <a href="https://standards.ieee.org/standard/1364-2005.html"><img src="./assets/icons/verilog.svg" width="64" height="64" alt="Verilog" title="Verilog" /></a>
 
 ### `06 // AI Arsenal`
 
-<img src="./assets/icons/chatgpt.svg" width="64" height="64" alt="ChatGPT" title="ChatGPT" /> <img src="https://cdn.simpleicons.org/claude/D97757" width="64" height="64" alt="Claude" title="Claude" /> <img src="./assets/icons/codex.svg" width="64" height="64" alt="Codex" title="Codex" /> <img src="./assets/icons/claude-code.svg" width="64" height="64" alt="Claude Code" title="Claude Code" />
+<a href="https://chatgpt.com/"><img src="./assets/icons/chatgpt.svg" width="64" height="64" alt="ChatGPT" title="ChatGPT" /></a> <a href="https://claude.ai/"><img src="https://cdn.simpleicons.org/claude/D97757" width="64" height="64" alt="Claude" title="Claude" /></a> <a href="https://openai.com/codex/"><img src="./assets/icons/codex.svg" width="64" height="64" alt="Codex" title="Codex" /></a> <a href="https://code.claude.com/docs/"><img src="./assets/icons/claude-code.svg" width="64" height="64" alt="Claude Code" title="Claude Code" /></a>
 
 `AI_ASSISTED = true` · `HUMAN_SUPERVISION = hopefully` · `BUGS = still_my_responsibility`
 
@@ -110,8 +110,8 @@ A zoo-building learning app that connects teachers' assignment management with s
 <div align="center">
 
 <!-- These SVGs are generated in your repository. Keep their existing generator/workflow enabled. -->
-<img src="./profile/stats.svg" alt="GitHub statistics" width="49%" />
-<img src="./profile/top-langs.svg" alt="Most used languages" width="49%" />
+<a href="https://github.com/tokimeki-marinosuke"><img src="./profile/stats.svg" alt="GitHub statistics" width="49%" /></a>
+<a href="https://github.com/tokimeki-marinosuke?tab=repositories"><img src="./profile/top-langs.svg" alt="Most used languages" width="49%" /></a>
 
 </div>
 
