@@ -81,7 +81,7 @@ A zoo-building learning app that connects teachers' assignment management with s
 ### `02 // Game Development & 3D`
 
 <a href="https://unity.com/"><img src="./assets/icons/unity.svg" width="64" height="64" alt="Unity" title="Unity" /></a> <a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" width="64" height="64" alt="Unreal Engine" title="Unreal Engine" /></a> <a href="https://scratch.mit.edu/"><img src="./assets/icons/scratch.svg" width="64" height="64" alt="Scratch" title="Scratch" /></a><br />
-<a href="https://www.blender.org/"><img src="./assets/icons/blender.svg" width="64" height="64" alt="Blender" title="Blender" /></a> <a href="https://vroid.com/studio"><img src="./assets/icons/vroid.svg" width="64" height="64" alt="VRoid Studio" title="VRoid Studio" /></a> <a href="https://quixel.com/bridge"><img src="./assets/icons/bridge.svg" width="64" height="64" alt="bridge." title="bridge." /></a>
+<a href="https://www.blender.org/"><img src="./assets/icons/blender.svg" width="64" height="64" alt="Blender" title="Blender" /></a> <a href="https://vroid.com/studio"><img src="./assets/icons/vroid.svg" width="64" height="64" alt="VRoid Studio" title="VRoid Studio" /></a> <a href="https://bridge-core.github.io/"><img src="./assets/icons/bridge.svg" width="64" height="64" alt="bridge." title="bridge." /></a>
 
 ### `03 // Creative Tools`
 
