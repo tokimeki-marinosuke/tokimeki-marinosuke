@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,45:18351f,100:00ff88&amp;height=220&amp;section=header&amp;text=TOKIMEKI%20MARINOSUKE&amp;fontSize=37&amp;fontColor=00ff88&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=BUILD%20FAILED%20SUCCESSFULLY&amp;descAlignY=60&amp;descSize=17" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EAF8EF,45:B9EBCB,100:79D9A6&amp;height=220&amp;section=header&amp;text=TOKIMEKI%20MARINOSUKE&amp;fontSize=37&amp;fontColor=064E2B&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=BUILD%20FAILED%20SUCCESSFULLY&amp;descAlignY=60&amp;descSize=17" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EAF8EF,45:B9EBCB,100:79D9A6&amp;height=220&amp;section=header&amp;text=TOKIMEKI%20MARINOSUKE&amp;fontSize=37&amp;fontColor=064E2B&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=BUILD%20FAILED%20SUCCESSFULLY&amp;descAlignY=60&amp;descSize=17" width="100%" alt="Bugged Developer banner" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,45:18351f,100:00ff88&amp;height=220§ion=header&amp;text=TOKIMEKI%20MARINOSUKE&amp;fontSize=37&amp;fontColor=00ff88&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=BUILD%20FAILED%20SUCCESSFULLY&amp;descAlignY=60&amp;descSize=17" width="100%" alt="Bugged Developer banner" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2600&amp;pause=900&amp;color=00FF88&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%3E+Hello%2C+World!;%3E+I+have+no+idea+why+this+works.;%3E+Works+on+my+machine%E2%84%A2;%3E+99+bugs+in+the+code..." />
@@ -14,21 +10,9 @@
 
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=tokimeki-marinosuke&amp;color=00ff88&amp;style=flat-square&amp;label=VISITORS" />
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=tokimeki-marinosuke&amp;color=167544&amp;style=flat-square&amp;label=VISITORS" />
-  <img src="https://komarev.com/ghpvc/?username=tokimeki-marinosuke&amp;color=167544&amp;style=flat-square&amp;label=VISITORS" alt="Profile Views" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/tokimeki-marinosuke?style=flat-square&amp;color=00ff88&amp;label=FOLLOWERS" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/tokimeki-marinosuke?style=flat-square&amp;color=167544&amp;label=FOLLOWERS&amp;labelColor=111111" />
-  <img src="https://img.shields.io/github/followers/tokimeki-marinosuke?style=flat-square&amp;color=167544&amp;label=FOLLOWERS&amp;labelColor=111111" alt="GitHub followers" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/BUILD-passing%3F-00ff88?style=flat-square&amp;labelColor=111111" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/BUILD-passing%3F-167544?style=flat-square&amp;labelColor=111111" />
-  <img src="https://img.shields.io/badge/BUILD-passing%3F-167544?style=flat-square&amp;labelColor=111111" alt="Status" />
-</picture>
+<img src="https://komarev.com/ghpvc/?username=tokimeki-marinosuke&amp;color=167544&amp;style=flat-square&amp;label=VISITORS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/tokimeki-marinosuke?style=flat-square&amp;color=167544&amp;label=FOLLOWERS&amp;labelColor=111111" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/BUILD-passing%3F-167544?style=flat-square&amp;labelColor=111111" alt="Status" />
 
 </div>
 
