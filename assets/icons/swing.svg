@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>Java Swing</title>
+  <desc>Original icon combining desktop GUI controls with the Swing name.</desc>
+  <rect width="64" height="64" rx="14" fill="#244B73" />
+  <rect x="10" y="9" width="44" height="32" rx="5" fill="#F2F7FC" />
+  <path d="M15 9h34a5 5 0 0 1 5 5v5H10v-5a5 5 0 0 1 5-5Z" fill="#98C6E9" />
+  <circle cx="16" cy="14" r="1.5" fill="#F18335" />
+  <circle cx="21" cy="14" r="1.5" fill="#FFFFFF" />
+  <circle cx="26" cy="14" r="1.5" fill="#FFFFFF" />
+  <rect x="15" y="23" width="12" height="13" rx="2" fill="#D4E5F2" />
+  <path d="M32 25h15M32 30h10" stroke="#416B8C" stroke-width="2" stroke-linecap="round" />
+  <rect x="39" y="33" width="9" height="4" rx="2" fill="#F18335" />
+  <text x="32" y="55" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="12" fill="#FFFFFF">Swing</text>
+</svg>

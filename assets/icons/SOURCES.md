@@ -60,3 +60,10 @@ The following Skill Icons dark tiles use individual solid backgrounds. Only the 
 ## Skill Icons service replacements
 
 Verilog, MySQL, MATLAB, and Discord are displayed directly from `https://skillicons.dev/icons?i=verilog`, `?i=mysql`, `?i=matlab`, and `?i=discord`, respectively. Their earlier local/Devicon/Simple Icons images are no longer referenced in the README. The locally recolored Skill Icons derivatives remain in use to preserve their custom backgrounds. X keeps its current X mark, since Skill Icons supplies the older Twitter bird rather than that mark.
+
+## JavaFX and Swing
+
+- JavaFX: original high-resolution [OpenJFX website logo](https://github.com/openjfx/openjfx.github.io/blob/de5bdd23bca54d3f87abada6849159c91af4f81c/static/images/javafx.png), from [openjfx.io](https://openjfx.io/). The original logo colors and image pixels are retained; its cup symbol and wordmark are arranged vertically for a 64×64 rounded tile.
+- OpenJFX's website declares [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) in its [site configuration](https://github.com/openjfx/openjfx.github.io/blob/de5bdd23bca54d3f87abada6849159c91af4f81c/config.toml). The tile is a layout adaptation for this personal profile; trademark ownership remains with the respective owner.
+- Swing: original SVG illustration created for this profile, representing desktop GUI components with an explicit Swing label; it is not presented as an official logo.
+- Swing documentation: [Oracle's Creating a GUI With Swing](https://docs.oracle.com/javase/tutorial/uiswing/), also referenced by [OpenJDK's javax.swing package documentation](https://github.com/openjdk/jdk/blob/master/src/java.desktop/share/classes/javax/swing/package-info.java).

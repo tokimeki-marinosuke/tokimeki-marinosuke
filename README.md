@@ -107,8 +107,8 @@ Built **[ZooっとStudy](https://github.com/jphacks/ng_2621)** — turning every
 
 ### `05 // Apps & Cloud`
 
-<a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="64" height="64" alt="Flutter" title="Flutter" /></a> <a href="https://nodejs.org/"><img src="./assets/icons/nodejs.svg" width="64" height="64" alt="Node.js" title="Node.js" /></a> <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="64" height="64" alt="FastAPI" title="FastAPI" /></a><br />
-<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="64" height="64" alt="AWS" title="AWS" /></a> <a href="https://firebase.google.com/"><img src="./assets/icons/firebase.svg" width="64" height="64" alt="Firebase" title="Firebase" /></a> <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" width="64" height="64" alt="WordPress" title="WordPress" /></a>
+<a href="https://openjfx.io/"><img src="./assets/icons/javafx.svg" width="64" height="64" alt="JavaFX" title="JavaFX" /></a> <a href="https://docs.oracle.com/javase/tutorial/uiswing/"><img src="./assets/icons/swing.svg" width="64" height="64" alt="Swing" title="Swing" /></a> <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="64" height="64" alt="Flutter" title="Flutter" /></a> <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" width="64" height="64" alt="WordPress" title="WordPress" /></a><br />
+<a href="https://nodejs.org/"><img src="./assets/icons/nodejs.svg" width="64" height="64" alt="Node.js" title="Node.js" /></a> <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="64" height="64" alt="FastAPI" title="FastAPI" /></a> <a href="https://firebase.google.com/"><img src="./assets/icons/firebase.svg" width="64" height="64" alt="Firebase" title="Firebase" /></a> <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="64" height="64" alt="AWS" title="AWS" /></a>
 
 ### `06 // Hardware & IoT`
 
