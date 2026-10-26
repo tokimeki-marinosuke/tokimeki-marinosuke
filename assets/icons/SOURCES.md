@@ -56,3 +56,7 @@ The following Skill Icons dark tiles use individual solid backgrounds. Only the 
 - Discord, Steam, X: [Simple Icons](https://github.com/simple-icons/simple-icons), with the original vector marks embedded in 64×64 rounded tiles; see `SIMPLE-ICONS-LICENSE.txt` (CC0).
 - AtCoder: [vector mark](https://github.com/kq5y/old-t3x.jp/blob/46aeb7558a242d63edc69e4d24b4da1384603086/src/extend-icons/icons/SiAtcoder.tsx), representing the [AtCoder logo](https://img.atcoder.jp/assets/top/img/logo_bk.svg). The mark is displayed in white on a navy tile to identify the linked AtCoder profile.
 - Brand names and marks remain the property of their respective owners.
+
+## Skill Icons service replacements
+
+Verilog, MySQL, MATLAB, and Discord are displayed directly from `https://skillicons.dev/icons?i=verilog`, `?i=mysql`, `?i=matlab`, and `?i=discord`, respectively. Their earlier local/Devicon/Simple Icons images are no longer referenced in the README. The locally recolored Skill Icons derivatives remain in use to preserve their custom backgrounds. X keeps its current X mark, since Skill Icons supplies the older Twitter bird rather than that mark.

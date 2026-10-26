@@ -88,7 +88,7 @@ Built **[ZooっとStudy](https://github.com/jphacks/ng_2621)** — turning every
 ### `01 // Languages`
 
 <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://skillicons.dev/icons?i=c" width="64" height="64" alt="C" title="C" /></a> <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="64" height="64" alt="C#" title="C#" /></a> <a href="https://www.java.com/"><img src="./assets/icons/java.svg" width="64" height="64" alt="Java" title="Java" /></a> <a href="https://kotlinlang.org/"><img src="./assets/icons/kotlin.svg" width="64" height="64" alt="Kotlin" title="Kotlin" /></a> <a href="https://dart.dev/"><img src="./assets/icons/dart.svg" width="64" height="64" alt="Dart" title="Dart" /></a> <a href="https://www.python.org/"><img src="./assets/icons/python.svg" width="64" height="64" alt="Python" title="Python" /></a><br />
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="64" height="64" alt="HTML" title="HTML" /></a> <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="64" height="64" alt="CSS" title="CSS" /></a> <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="64" height="64" alt="JavaScript" title="JavaScript" /></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="64" height="64" alt="TypeScript" title="TypeScript" /></a> <a href="https://www.mysql.com/"><img src="./assets/icons/mysql.svg" width="64" height="64" alt="MySQL" title="MySQL" /></a> <a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" title="MATLAB" /></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="64" height="64" alt="HTML" title="HTML" /></a> <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="64" height="64" alt="CSS" title="CSS" /></a> <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="64" height="64" alt="JavaScript" title="JavaScript" /></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="64" height="64" alt="TypeScript" title="TypeScript" /></a> <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="64" height="64" alt="MySQL" title="MySQL" /></a> <a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab" width="64" height="64" alt="MATLAB" title="MATLAB" /></a>
 
 ### `02 // Game Development & 3D`
 
@@ -107,7 +107,7 @@ Built **[ZooっとStudy](https://github.com/jphacks/ng_2621)** — turning every
 ### `05 // Backend & Hardware`
 
 <a href="https://nodejs.org/"><img src="./assets/icons/nodejs.svg" width="64" height="64" alt="Node.js" title="Node.js" /></a> <a href="https://firebase.google.com/"><img src="./assets/icons/firebase.svg" width="64" height="64" alt="Firebase" title="Firebase" /></a> <a href="https://nodered.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" width="64" height="64" alt="Node-RED" title="Node-RED" /></a><br />
-<a href="https://www.raspberrypi.com/"><img src="./assets/icons/raspberrypi.svg" width="64" height="64" alt="Raspberry Pi" title="Raspberry Pi" /></a> <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="64" height="64" alt="Arduino" title="Arduino" /></a> <a href="https://standards.ieee.org/standard/1364-2005.html"><img src="./assets/icons/verilog.svg" width="64" height="64" alt="Verilog" title="Verilog" /></a>
+<a href="https://www.raspberrypi.com/"><img src="./assets/icons/raspberrypi.svg" width="64" height="64" alt="Raspberry Pi" title="Raspberry Pi" /></a> <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="64" height="64" alt="Arduino" title="Arduino" /></a> <a href="https://standards.ieee.org/standard/1364-2005.html"><img src="https://skillicons.dev/icons?i=verilog" width="64" height="64" alt="Verilog" title="Verilog" /></a>
 
 ### `06 // AI Arsenal`
 
@@ -153,7 +153,7 @@ while (project.isWorking()) {
 
 ### `> contact --links`
 
-<a href="https://discord.com/users/@maruha0523" title="Discord"><img src="./assets/icons/discord.svg" width="64" height="64" alt="Discord" /></a>&nbsp;&nbsp;
+<a href="https://discord.com/users/@maruha0523" title="Discord"><img src="https://skillicons.dev/icons?i=discord" width="64" height="64" alt="Discord" /></a>&nbsp;&nbsp;
 <a href="https://steamcommunity.com/profiles/76561199274968390/" title="Steam"><img src="./assets/icons/steam.svg" width="64" height="64" alt="Steam" /></a>&nbsp;&nbsp;
 <a href="https://x.com/Kanaya_festival" title="X"><img src="./assets/icons/x.svg" width="64" height="64" alt="X" /></a>&nbsp;&nbsp;
 <a href="https://atcoder.jp/users/TMarinosuke" title="AtCoder"><img src="./assets/icons/atcoder.svg" width="64" height="64" alt="AtCoder" /></a>
