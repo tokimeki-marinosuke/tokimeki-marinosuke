@@ -43,7 +43,7 @@ KNOWN_ISSUE = "I am the documentation."
 
 ## `> ls ./featured-projects/`
 
-### 🦊 雫と狐とからくり屋敷 — Shizuku, the Fox & the Karakuri Mansion
+### 🦊 [雫と狐とからくり屋敷 — Shizuku, the Fox & the Karakuri Mansion](https://github.com/tokimeki-marinosuke/ShizukuToFoxToKarakuriYashiki)
 
 **Japanese horror × Roguelike × Unity**
 
@@ -56,7 +56,7 @@ A Japanese-style horror roguelike set in a mysterious karakuri mansion.
 
 `STATUS: BUILT WITH UNITY` · `WARNING: FOX MAY KNOW MORE THAN YOU`
 
-### 🐾 ZooっとStudy (ZooStudy)
+### 🐾 [ZooっとStudy (ZooStudy)](https://github.com/jphacks/ng_2621)
 
 **Education × Gamification × Flutter**
 
@@ -65,9 +65,21 @@ A zoo-building learning app that connects teachers' assignment management with s
 - 📝 Teachers assign, review, and approve homework
 - 🪙 Students earn coins on submission and approval
 - 🦁 Coins unlock animals and facilities for a personal zoo
-- 📱 Built with Flutter / Dart for JPHacks 2026
+- 📱 Built with Flutter / Dart for [JPHACKS 2026](https://github.com/jphacks/ng_2621)
 
 `STATUS: HACKATHON BUILD` · `FEATURE: HOMEWORK → ZOO`
+
+## `> ls ./hackathons/`
+
+<div align="center">
+
+<a href="https://github.com/jphacks/ng_2621" title="JPHACKS 2026 — ZooっとStudy"><img src="https://avatars.githubusercontent.com/u/10176253?s=256&amp;v=4" width="64" height="64" alt="JPHACKS" /></a>
+
+**[JPHACKS 2026](https://github.com/jphacks/ng_2621)** · `PARTICIPANT`
+
+Built **[ZooっとStudy](https://github.com/jphacks/ng_2621)** — turning everyday learning into a growing personal zoo.
+
+</div>
 
 ## `> cat tech-stack.json`
 
