@@ -69,7 +69,7 @@ A zoo-building learning app that connects teachers' assignment management with s
 
 `STATUS: HACKATHON BUILD` · `FEATURE: HOMEWORK → ZOO`
 
-### 🎨 [EWOCURU](https://github.com/outsidewhite/-Illustration-exchange)
+### 🎨 [EWOCURU](https://github.com/Devfest-Hackathon-2026/df-2026-t036)
 
 **Illustration exchange × Flutter Web × FastAPI**
 
