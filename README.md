@@ -96,16 +96,14 @@ An illustration-matching service connecting people who want their ideas drawn wi
     <td align="center" valign="top" width="50%">
       <div align="left"><sup>PARTICIPANT</sup></div>
       <a href="https://github.com/jphacks/ng_2621" title="JPHACKS 2026 — ZooっとStudy"><img src="https://avatars.githubusercontent.com/u/10176253?s=256&amp;v=4" width="64" height="64" alt="JPHACKS" /></a><br />
-      <strong>【JPHACKS 2026】</strong><br />
-      <sub>ZooっとStudy</sub><br />
+      <strong>【ZooっとStudy】</strong><br />
       <sub>Learning × Zoo building</sub><br /><br />
       <a href="https://github.com/jphacks/ng_2621" title="ZooっとStudy repository"><img src="./assets/badges/repository.svg" width="134" height="28" alt="ZooっとStudy repository" /></a> <a href="https://jphacks.com/" title="JPHACKS official website"><img src="./assets/badges/website.svg" width="112" height="28" alt="JPHACKS official website" /></a>
     </td>
     <td align="center" valign="top" width="50%">
       <div align="left"><sup>PARTICIPANT</sup></div>
       <a href="https://github.com/Devfest-Hackathon-2026/df-2026-t036" title="DevFest — EWOCURU"><img src="./assets/icons/devfest.svg" width="64" height="64" alt="GDG DevFest" /></a><br />
-      <strong>【DevFest Hackathon】</strong><br />
-      <sub>EWOCURU</sub><br />
+      <strong>【EWOCURU】</strong><br />
       <sub>Ideas × Illustration exchange</sub><br /><br />
       <a href="https://github.com/Devfest-Hackathon-2026/df-2026-t036" title="EWOCURU repository"><img src="./assets/badges/repository.svg" width="134" height="28" alt="EWOCURU repository" /></a> <a href="https://developers.google.com/community/devfest" title="DevFest official website"><img src="./assets/badges/website.svg" width="112" height="28" alt="DevFest official website" /></a>
     </td>
