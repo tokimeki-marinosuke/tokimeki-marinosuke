@@ -95,10 +95,10 @@ An illustration-matching service connecting people who want their ideas drawn wi
       Learning × Zoo building
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/outsidewhite/-Illustration-exchange" title="DevFest — EWOCURU"><img src="./assets/icons/devfest.svg" width="64" height="64" alt="GDG DevFest" /></a><br />
+      <a href="https://github.com/Devfest-Hackathon-2026/df-2026-t036" title="DevFest — EWOCURU"><img src="./assets/icons/devfest.svg" width="64" height="64" alt="GDG DevFest" /></a><br />
       <strong><a href="https://developers.google.com/community/devfest">DevFest Hackathon</a></strong><br />
       <code>PARTICIPANT</code><br />
-      <strong><a href="https://github.com/outsidewhite/-Illustration-exchange">EWOCURU</a></strong><br />
+      <strong><a href="https://github.com/Devfest-Hackathon-2026/df-2026-t036">EWOCURU</a></strong><br />
       Ideas × Illustration exchange
     </td>
   </tr>
