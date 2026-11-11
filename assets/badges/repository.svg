@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="28" viewBox="0 0 134 28" role="img" aria-labelledby="title">
+  <title id="title">REPOSITORY</title>
+  <rect x="0.5" y="0.5" width="133" height="27" rx="6" fill="#101B23" stroke="#2C4854" />
+  <g fill="none" stroke="#0CF574" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m15 9-5 5 5 5m8-10 5 5-5 5m-3-12-3 14"/></g>
+  <text x="36" y="18" fill="#0CF574" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="0.5">REPOSITORY</text>
+</svg>

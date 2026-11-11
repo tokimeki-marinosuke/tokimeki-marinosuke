@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="28" viewBox="0 0 112 28" role="img" aria-labelledby="title">
+  <title id="title">WEBSITE</title>
+  <rect x="0.5" y="0.5" width="111" height="27" rx="6" fill="#101B23" stroke="#2C4854" />
+  <g fill="none" stroke="#55BDE8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 11v10h12v-5M18 8h10v10M27 9 17 19"/></g>
+  <text x="36" y="18" fill="#55BDE8" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="0.5">WEBSITE</text>
+</svg>

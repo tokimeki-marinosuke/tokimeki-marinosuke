@@ -43,7 +43,7 @@ KNOWN_ISSUE = "I am the documentation."
 
 ## `> ls ./featured-projects/`
 
-### 🦊 [雫と狐とからくり屋敷 — Shizuku, the Fox & the Karakuri Mansion](https://github.com/tokimeki-marinosuke/ShizukuToFoxToKarakuriYashiki)
+### 🦊 雫と狐とからくり屋敷 — Shizuku, the Fox & the Karakuri Mansion
 
 **Japanese horror × Roguelike × Unity**
 
@@ -56,7 +56,9 @@ A Japanese-style horror roguelike set in a mysterious karakuri mansion.
 
 `STATUS: BUILT WITH UNITY` · `WARNING: FOX MAY KNOW MORE THAN YOU`
 
-### 🐾 [ZooっとStudy (ZooStudy)](https://github.com/jphacks/ng_2621)
+<a href="https://github.com/tokimeki-marinosuke/ShizukuToFoxToKarakuriYashiki" title="Shizuku, the Fox &amp; the Karakuri Mansion repository"><img src="./assets/badges/repository.svg" width="134" height="28" alt="Shizuku, the Fox &amp; the Karakuri Mansion repository" /></a>
+
+### 🐾 ZooっとStudy (ZooStudy)
 
 **Education × Gamification × Flutter**
 
@@ -65,11 +67,13 @@ A zoo-building learning app that connects teachers' assignment management with s
 - 📝 Teachers assign, review, and approve homework
 - 🪙 Students earn coins on submission and approval
 - 🦁 Coins unlock animals and facilities for a personal zoo
-- 📱 Built with Flutter / Dart for [JPHACKS 2026](https://jphacks.com/)
+- 📱 Built with Flutter / Dart for JPHACKS 2026
 
 `STATUS: HACKATHON BUILD` · `FEATURE: HOMEWORK → ZOO`
 
-### 🎨 [EWOCURU](https://github.com/Devfest-Hackathon-2026/df-2026-t036)
+<a href="https://github.com/jphacks/ng_2621" title="ZooっとStudy repository"><img src="./assets/badges/repository.svg" width="134" height="28" alt="ZooっとStudy repository" /></a> <a href="https://jphacks.com/" title="JPHACKS official website"><img src="./assets/badges/website.svg" width="112" height="28" alt="JPHACKS official website" /></a>
+
+### 🎨 EWOCURU
 
 **Illustration exchange × Flutter Web × FastAPI**
 
@@ -79,9 +83,11 @@ An illustration-matching service connecting people who want their ideas drawn wi
 - 🎨 Send illustrations directly to the person who posted a prompt
 - 📬 Receive, like, and save artwork created for your ideas
 - 🔐 Google sign-in with Firebase Authentication
-- 🛠️ Built with Flutter Web / FastAPI for the [DevFest hackathon](https://developers.google.com/community/devfest)
+- 🛠️ Built with Flutter Web / FastAPI for the DevFest hackathon
 
 `STATUS: HACKATHON BUILD` · `FEATURE: IDEAS → ILLUSTRATIONS`
+
+<a href="https://github.com/Devfest-Hackathon-2026/df-2026-t036" title="EWOCURU repository"><img src="./assets/badges/repository.svg" width="134" height="28" alt="EWOCURU repository" /></a> <a href="https://developers.google.com/community/devfest" title="DevFest official website"><img src="./assets/badges/website.svg" width="112" height="28" alt="DevFest official website" /></a>
 
 ## `> ls ./hackathons/`
 
@@ -89,17 +95,19 @@ An illustration-matching service connecting people who want their ideas drawn wi
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/jphacks/ng_2621" title="JPHACKS 2026 — ZooっとStudy"><img src="https://avatars.githubusercontent.com/u/10176253?s=256&amp;v=4" width="64" height="64" alt="JPHACKS" /></a><br />
-      <strong><a href="https://jphacks.com/">JPHACKS 2026</a></strong><br />
+      <strong>JPHACKS 2026</strong><br />
       <code>PARTICIPANT</code><br />
-      <strong><a href="https://github.com/jphacks/ng_2621">ZooっとStudy</a></strong><br />
-      Learning × Zoo building
+      <strong>ZooっとStudy</strong><br />
+      Learning × Zoo building<br /><br />
+      <a href="https://github.com/jphacks/ng_2621" title="ZooっとStudy repository"><img src="./assets/badges/repository.svg" width="134" height="28" alt="ZooっとStudy repository" /></a> <a href="https://jphacks.com/" title="JPHACKS official website"><img src="./assets/badges/website.svg" width="112" height="28" alt="JPHACKS official website" /></a>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/Devfest-Hackathon-2026/df-2026-t036" title="DevFest — EWOCURU"><img src="./assets/icons/devfest.svg" width="64" height="64" alt="GDG DevFest" /></a><br />
-      <strong><a href="https://developers.google.com/community/devfest">DevFest Hackathon</a></strong><br />
+      <strong>DevFest Hackathon</strong><br />
       <code>PARTICIPANT</code><br />
-      <strong><a href="https://github.com/Devfest-Hackathon-2026/df-2026-t036">EWOCURU</a></strong><br />
-      Ideas × Illustration exchange
+      <strong>EWOCURU</strong><br />
+      Ideas × Illustration exchange<br /><br />
+      <a href="https://github.com/Devfest-Hackathon-2026/df-2026-t036" title="EWOCURU repository"><img src="./assets/badges/repository.svg" width="134" height="28" alt="EWOCURU repository" /></a> <a href="https://developers.google.com/community/devfest" title="DevFest official website"><img src="./assets/badges/website.svg" width="112" height="28" alt="DevFest official website" /></a>
     </td>
   </tr>
 </table>
