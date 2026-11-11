@@ -74,3 +74,8 @@ Verilog, MySQL, MATLAB, and Discord are displayed directly from `https://skillic
 - The four-color GDG mark is presented with a DevFest label on a white 64×64 rounded tile. The image represents the event and links to the EWOCURU project repository.
 - [Upstream license](https://github.com/gdg-x/hoverboard/blob/main/LICENSE.md): see `HOVERBOARD-LICENSE.txt`. Brand names and marks remain the property of their respective owners.
 - Event name links use the [official DevFest page](https://developers.google.com/community/devfest).
+
+## Amazon Wishlist
+
+- Amazon mark: [Simple Icons v13.0.0](https://github.com/simple-icons/simple-icons/blob/13.0.0/icons/amazon.svg), CC0; see `SIMPLE-ICONS-LICENSE.txt`.
+- The original vector mark is presented in Amazon orange on a navy 64×64 rounded tile and links to the profile owner's supplied wishlist.

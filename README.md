@@ -192,7 +192,8 @@ while (project.isWorking()) {
 <a href="https://discord.com/users/@maruha0523" title="Discord"><img src="https://skillicons.dev/icons?i=discord" width="64" height="64" alt="Discord" /></a>&nbsp;&nbsp;
 <a href="https://steamcommunity.com/profiles/76561199274968390/" title="Steam"><img src="./assets/icons/steam.svg" width="64" height="64" alt="Steam" /></a>&nbsp;&nbsp;
 <a href="https://x.com/Kanaya_festival" title="X"><img src="./assets/icons/x.svg" width="64" height="64" alt="X" /></a>&nbsp;&nbsp;
-<a href="https://atcoder.jp/users/TMarinosuke" title="AtCoder"><img src="./assets/icons/atcoder.svg" width="64" height="64" alt="AtCoder" /></a>
+<a href="https://atcoder.jp/users/TMarinosuke" title="AtCoder"><img src="./assets/icons/atcoder.svg" width="64" height="64" alt="AtCoder" /></a>&nbsp;&nbsp;
+<a href="https://www.amazon.jp/hz/wishlist/ls/28BOLXDEZ1B5F?ref_=wl_share" title="Amazon ほしいものリスト"><img src="./assets/icons/amazon.svg" width="64" height="64" alt="Amazon ほしいものリスト" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,60:18351f,100:050505&height=120&section=footer" width="100%" alt="Footer" />
 
