@@ -95,7 +95,7 @@ Built **[ZooっとStudy](https://github.com/jphacks/ng_2621)** — turning every
 
 <br />
 
-<a href="https://github.com/outsidewhite/-Illustration-exchange" title="DevFest — EWOCURU"><img src="./assets/icons/ewocuru.svg" width="64" height="64" alt="EWOCURU — DevFest hackathon project" /></a>
+<a href="https://github.com/outsidewhite/-Illustration-exchange" title="DevFest — EWOCURU"><img src="./assets/icons/devfest.svg" width="64" height="64" alt="GDG DevFest" /></a>
 
 **[DevFest Hackathon](https://developers.google.com/community/devfest)** · `PARTICIPANT`
 
