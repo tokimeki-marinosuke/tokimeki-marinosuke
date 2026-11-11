@@ -85,23 +85,24 @@ An illustration-matching service connecting people who want their ideas drawn wi
 
 ## `> ls ./hackathons/`
 
-<div align="center">
-
-<a href="https://github.com/jphacks/ng_2621" title="JPHACKS 2026 — ZooっとStudy"><img src="https://avatars.githubusercontent.com/u/10176253?s=256&amp;v=4" width="64" height="64" alt="JPHACKS" /></a>
-
-**[JPHACKS 2026](https://jphacks.com/)** · `PARTICIPANT`
-
-Built **[ZooっとStudy](https://github.com/jphacks/ng_2621)** — turning everyday learning into a growing personal zoo.
-
-<br />
-
-<a href="https://github.com/outsidewhite/-Illustration-exchange" title="DevFest — EWOCURU"><img src="./assets/icons/devfest.svg" width="64" height="64" alt="GDG DevFest" /></a>
-
-**[DevFest Hackathon](https://developers.google.com/community/devfest)** · `PARTICIPANT`
-
-Built **[EWOCURU](https://github.com/outsidewhite/-Illustration-exchange)** — connecting illustration ideas with people who want to draw.
-
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/jphacks/ng_2621" title="JPHACKS 2026 — ZooっとStudy"><img src="https://avatars.githubusercontent.com/u/10176253?s=256&amp;v=4" width="64" height="64" alt="JPHACKS" /></a><br />
+      <strong><a href="https://jphacks.com/">JPHACKS 2026</a></strong><br />
+      <code>PARTICIPANT</code><br />
+      <strong><a href="https://github.com/jphacks/ng_2621">ZooっとStudy</a></strong><br />
+      Learning × Zoo building
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/outsidewhite/-Illustration-exchange" title="DevFest — EWOCURU"><img src="./assets/icons/devfest.svg" width="64" height="64" alt="GDG DevFest" /></a><br />
+      <strong><a href="https://developers.google.com/community/devfest">DevFest Hackathon</a></strong><br />
+      <code>PARTICIPANT</code><br />
+      <strong><a href="https://github.com/outsidewhite/-Illustration-exchange">EWOCURU</a></strong><br />
+      Ideas × Illustration exchange
+    </td>
+  </tr>
+</table>
 
 ## `> cat tech-stack.json`
 
