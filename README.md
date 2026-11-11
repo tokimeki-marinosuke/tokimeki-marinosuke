@@ -69,6 +69,20 @@ A zoo-building learning app that connects teachers' assignment management with s
 
 `STATUS: HACKATHON BUILD` · `FEATURE: HOMEWORK → ZOO`
 
+### 🎨 [EWOCURU](https://github.com/outsidewhite/-Illustration-exchange)
+
+**Illustration exchange × Flutter Web × FastAPI**
+
+An illustration-matching service connecting people who want their ideas drawn with people who want to draw.
+
+- 💡 Share drawing prompts and discover ideas that inspire you
+- 🎨 Send illustrations directly to the person who posted a prompt
+- 📬 Receive, like, and save artwork created for your ideas
+- 🔐 Google sign-in with Firebase Authentication
+- 🛠️ Built with Flutter Web / FastAPI for the [DevFest hackathon](https://developers.google.com/community/devfest)
+
+`STATUS: HACKATHON BUILD` · `FEATURE: IDEAS → ILLUSTRATIONS`
+
 ## `> ls ./hackathons/`
 
 <div align="center">
@@ -78,6 +92,14 @@ A zoo-building learning app that connects teachers' assignment management with s
 **[JPHACKS 2026](https://jphacks.com/)** · `PARTICIPANT`
 
 Built **[ZooっとStudy](https://github.com/jphacks/ng_2621)** — turning everyday learning into a growing personal zoo.
+
+<br />
+
+<a href="https://github.com/outsidewhite/-Illustration-exchange" title="DevFest — EWOCURU"><img src="./assets/icons/ewocuru.svg" width="64" height="64" alt="EWOCURU — DevFest hackathon project" /></a>
+
+**[DevFest Hackathon](https://developers.google.com/community/devfest)** · `PARTICIPANT`
+
+Built **[EWOCURU](https://github.com/outsidewhite/-Illustration-exchange)** — connecting illustration ideas with people who want to draw.
 
 </div>
 

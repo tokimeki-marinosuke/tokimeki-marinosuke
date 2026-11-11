@@ -67,3 +67,9 @@ Verilog, MySQL, MATLAB, and Discord are displayed directly from `https://skillic
 - OpenJFX's website declares [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) in its [site configuration](https://github.com/openjfx/openjfx.github.io/blob/de5bdd23bca54d3f87abada6849159c91af4f81c/config.toml). The tile is a layout adaptation for this personal profile; trademark ownership remains with the respective owner.
 - Swing: custom composition using the Java cup from [Skill Icons Java-Light.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg), MIT (`SKILL-ICONS-LICENSE.txt`), paired with a Swing label. Cup/steam colors were adapted to light blue and red on a navy rounded tile; it is not presented as an official Swing logo.
 - Swing documentation: [Oracle's Creating a GUI With Swing](https://docs.oracle.com/javase/tutorial/uiswing/), also referenced by [OpenJDK's javax.swing package documentation](https://github.com/openjdk/jdk/blob/master/src/java.desktop/share/classes/javax/swing/package-info.java).
+
+## EWOCURU hackathon project
+
+- Artwork: `docs/logo.png` from the user-supplied [EWOCURU project repository](https://github.com/outsidewhite/-Illustration-exchange), commit `90208f66389812726fe4fb12c0510240bf27d7c0`.
+- The original image pixels are embedded unchanged in a navy 64×64 rounded tile; the icon identifies the project, not an official DevFest logo.
+- DevFest participation was supplied by the profile owner; the general [official DevFest page](https://developers.google.com/community/devfest) is linked for the event, without claiming a specific chapter or award.
